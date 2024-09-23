@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
