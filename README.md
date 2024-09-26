@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1236-n-th-tribonacci-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
