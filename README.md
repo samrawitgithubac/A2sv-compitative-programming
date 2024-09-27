@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0136-single-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
