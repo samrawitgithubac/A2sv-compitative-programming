@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
