@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
