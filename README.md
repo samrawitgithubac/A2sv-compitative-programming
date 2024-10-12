@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0303-range-sum-query-immutable) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
