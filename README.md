@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -157,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
