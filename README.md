@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
+| [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
+| [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 ## Queue
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
+| [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
