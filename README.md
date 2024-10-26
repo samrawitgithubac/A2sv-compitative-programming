@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
