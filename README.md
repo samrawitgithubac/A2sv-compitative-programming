@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2580-circular-sentence) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
