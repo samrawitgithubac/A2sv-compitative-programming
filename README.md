@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
