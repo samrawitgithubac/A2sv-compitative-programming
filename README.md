@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
