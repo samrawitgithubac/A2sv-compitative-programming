@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sorting
 |  |
 | ------- |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
