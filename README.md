@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1137-height-checker) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1370-count-number-of-nice-subarrays) |
