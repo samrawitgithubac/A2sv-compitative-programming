@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2580-circular-sentence) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
 | ------- |
