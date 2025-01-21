@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
