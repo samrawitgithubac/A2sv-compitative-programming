@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2619-categorize-box-according-to-criteria) |
 ## Matrix
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2232-adding-spaces-to-a-string) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
