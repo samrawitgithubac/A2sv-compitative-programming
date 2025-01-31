@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2619-categorize-box-according-to-criteria) |
+| [2812-find-the-maximum-achievable-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2812-find-the-maximum-achievable-number) |
 ## Matrix
 |  |
 | ------- |
