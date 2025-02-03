@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2619-categorize-box-according-to-criteria) |
+| [2645-pass-the-pillow](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2812-find-the-maximum-achievable-number) |
 ## Matrix
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2639-separate-the-digits-in-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2639-separate-the-digits-in-an-array) |
+| [2645-pass-the-pillow](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
