@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3651-transformed-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3651-transformed-array) |
 ## String
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3651-transformed-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3651-transformed-array) |
 ## Sorting
 |  |
 | ------- |
