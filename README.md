@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1772-create-sorted-array-through-instructions](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1772-create-sorted-array-through-instructions) |
+| [1791-richest-customer-wealth](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
+| [1791-richest-customer-wealth](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
 ## Bit Manipulation
 |  |
