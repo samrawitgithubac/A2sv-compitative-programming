@@ -1,39 +1,27 @@
 from collections import defaultdict
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
-        mm=defaultdict(list)
-        r=0
-        res=[]
-        minimumIndex= float('inf')
-        while r<len(list1):
-            minSumIndex=len(list1)+len(list2)
-            l=0
-            while l<len(list2):
-                if list1[r]==list2[l]:
-                    minSumIndex=min(minSumIndex,l+r)
-                
-                l+=1
-            if minSumIndex<len(list1)+len(list2):
-                
-                minimumIndex=min(minSumIndex, minimumIndex)
-                mm[minSumIndex].append(list1[r])
-
+        list2_index = {}
+        minIndexSum=float('inf')
+        resultString=defaultdict(list)
+        for i in range(len(list2)):
+            list2_index[list2[i]] = i
         
-            r+=1
-
-        return mm[minimumIndex] 
-
-           
-          
+        for i, curr_string in enumerate(list1):
+            if  curr_string in list2_index:
+                indexSum=i+list2_index[curr_string]
+                minIndexSum=min(minIndexSum,indexSum)
+                resultString[indexSum].append(curr_string)
         
 
-                    
-                
+        return resultString[minIndexSum]
+        
 
-           
-           
-               
-               
+
+
+
+            
+        
             
 
 
