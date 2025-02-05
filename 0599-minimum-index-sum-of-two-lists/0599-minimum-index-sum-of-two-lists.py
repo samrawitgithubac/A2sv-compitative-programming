@@ -9,13 +9,13 @@ class Solution:
         
         for i, curr_string in enumerate(list1):
             if  curr_string in list2_index:
-                indexSum=i+list2_index[curr_string]
+                indexSum=i+list2_index[curr_string] 
                 if indexSum<minIndexSum:
                     resultStrings=[curr_string]
                 elif indexSum==minIndexSum:
                     resultStrings.append(curr_string)
+                minIndexSum=min(minIndexSum,indexSum) 
                 
-                minIndexSum=min(minIndexSum,indexSum)
                 
         
         return resultStrings
