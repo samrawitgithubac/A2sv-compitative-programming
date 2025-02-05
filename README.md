@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0838-design-linked-list) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Math
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
