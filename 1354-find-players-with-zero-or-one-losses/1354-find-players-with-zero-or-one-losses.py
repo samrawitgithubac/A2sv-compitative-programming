@@ -12,7 +12,7 @@ class Solution:
             
               
         
-        zero_losser=[i for i in allPlayer if i not in loss_counter ]
+        zero_losser=[i for i in allPlayer if loss_counter[i]==0]
         one_losser=[i for i in loss_counter if loss_counter[i]==1 ]
         zero_losser.sort()
         one_losser.sort()
