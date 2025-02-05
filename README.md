@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
+| [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1603-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
+| [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2058-concatenation-of-array) |
