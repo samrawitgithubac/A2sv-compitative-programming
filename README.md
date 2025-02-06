@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2232-adding-spaces-to-a-string) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2551-apply-operations-to-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
