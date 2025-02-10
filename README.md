@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
