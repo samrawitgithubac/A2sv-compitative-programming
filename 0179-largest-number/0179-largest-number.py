@@ -1,16 +1,13 @@
 from typing import List
+from functools import cmp_to_key
 
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        for i in range(len(nums)):
-            for j in range(len(nums) - 1):
-                # Compare concatenated values as strings to determine order
-                if str(nums[j]) + str(nums[j + 1]) < str(nums[j + 1]) + str(nums[j]):
-                    nums[j], nums[j + 1] = nums[j + 1], nums[j]
-        
-        # Handle the edge case where all numbers are zero
-        if nums[0] == 0:
-            return "0"
-        
-        # Convert the sorted numbers to a single concatenated string
-        return "".join(map(str, nums))
+        def compare(n1, n2):
+            if n1 + n2 > n2 + n1:
+                return -1
+            else:
+                return 1
+
+        nums = sorted(map(str, nums), key=cmp_to_key(compare))
+        return str(int("".join(nums)))
