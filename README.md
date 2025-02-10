@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0661-image-smoother) |
 | [0713-subarray-product-less-than-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0661-image-smoother](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0898-transpose-matrix) |
