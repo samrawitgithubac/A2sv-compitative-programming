@@ -40,8 +40,4 @@ class Solution:
         mergeSort(nums)
         return nums
 
-# Example usage:
-solution = Solution()
-arr = [38, 27, 43, 3, 9, 82, 10]
-print(solution.sortArray(arr))  
-# Output: [3, 9, 10, 27, 38, 43, 82]
+
