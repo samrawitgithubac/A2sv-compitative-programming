@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
 | [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1137-height-checker) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
