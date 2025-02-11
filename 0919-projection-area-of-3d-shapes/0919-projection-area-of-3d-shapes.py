@@ -16,23 +16,7 @@ class Solution:
             a2+=maxcolumn
         return (count+a1+a2)
         
-        '''for i in range(len(grid)):
-            for j in range(len(grid[0])):
-               
-                maxcolumn=max(maxcolumn,grid[i][j])
-            print(maxcolumn)
-            a1+=maxcolumn
-            maxcolumn=0
-            
-        for i in range(len(grid[0])):
-            for j in range(len(grid)):
-                
-                maxrow=max(maxrow,grid[j][i])
-            a2+=maxrow
-            maxrow=0
-           
-        return (count+a1+a2)'''
-
+       
                 
         
                
