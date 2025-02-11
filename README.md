@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
+| [0919-projection-area-of-3d-shapes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0633-sum-of-square-numbers) |
+| [0919-projection-area-of-3d-shapes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
@@ -544,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
