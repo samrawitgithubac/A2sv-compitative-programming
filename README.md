@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2058-concatenation-of-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1137-height-checker) |
+| [1961-maximum-ice-cream-bars](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1961-maximum-ice-cream-bars) |
 ## Breadth-First Search
 |  |
 | ------- |
