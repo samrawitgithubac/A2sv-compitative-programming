@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1034-subarrays-with-k-different-integers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1137-height-checker) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
+| [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
 | [1137-height-checker](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1137-height-checker) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
+| [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1894-merge-strings-alternately) |
