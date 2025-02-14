@@ -1,35 +1,36 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(s) < len(t):
+        m, n = len(s), len(t)
+        counter_t = Counter(t)
+        window = Counter()
+
+        def check(first, second):
+            for char in second:
+                if first[char] < second[char]:
+                    return False
+            
+            return True
+
+        left = 0
+        right = 0
+        ans = float("inf")
+        indexes = []
+
+        while right < m:
+            window[s[right]] += 1
+
+            while (right-left)+1 >= n and check(window, counter_t):
+                current_length = (right-left)+1
+                if current_length < ans:
+                    ans = current_length
+                    indexes = [left, right]
+                
+                window[s[left]] -= 1
+                left += 1
+
+            right += 1
+        
+        if ans == float("inf"):
             return ""
         
-        char_count = defaultdict(int)
-        for ch in t:
-            char_count[ch] += 1
-        
-        target_chars_remaining = len(t)
-        min_window = (0, float("inf"))
-        start_index = 0
-
-        for end_index, ch in enumerate(s):
-            if char_count[ch] > 0:
-                target_chars_remaining -= 1
-            char_count[ch] -= 1
-
-            if target_chars_remaining == 0:
-                while True:
-                    char_at_start = s[start_index]
-                    if char_count[char_at_start] == 0:
-                        break
-                    char_count[char_at_start] += 1
-                    start_index += 1
-                
-                if end_index - start_index < min_window[1] - min_window[0]:
-                    min_window = (start_index, end_index)
-                
-                char_count[s[start_index]] += 1
-                target_chars_remaining += 1
-                start_index += 1
-        
-        return "" if min_window[1] > len(s) else s[min_window[0]:min_window[1]+1]
-        
+        return s[indexes[0]: indexes[1]+1]
