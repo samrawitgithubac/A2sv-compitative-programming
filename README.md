@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2580-circular-sentence) |
+| [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
