@@ -1,9 +1,16 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        res, swaps = 0, 0
-        for ch in s:
-            if ch == '1':
-                swaps += 1
-            else:
-                res += swaps
-        return res      
+        l=0
+        res=0
+        for r in range(len(s)):
+            if s[r]=="0":
+                res+=(r-l)
+                l+=1
+            
+        return res
+            
+
+                
+
+
+          
