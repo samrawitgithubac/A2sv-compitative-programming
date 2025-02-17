@@ -2,20 +2,17 @@ from typing import List
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        n = len(nums)
-        # Initialize the result array with 1s
-        result = [1] * n
+        n=len(nums)
+        leftproduct=1
+        rightproduct=1
+        ans=[1]*n
+        for i in range(len(nums)):
+            ans[i]=leftproduct
+            leftproduct*=nums[i]
+        for i in range(len(nums)-1,-1,-1):
+           
+            ans[i]*=rightproduct
+            rightproduct*=nums[i]
+        return ans
 
-        # First pass: Calculate the left product (prefix product)
-        left_product = 1
-        for i in range(n):
-            result[i] = left_product
-            left_product *= nums[i]
-
-        # Second pass: Calculate the right product (suffix product) and multiply
-        right_product = 1
-        for i in range(n - 1, -1, -1):
-            result[i] *= right_product
-            right_product *= nums[i]
-
-        return result
+            
