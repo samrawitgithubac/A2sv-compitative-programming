@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0075-sort-colors) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1772-create-sorted-array-through-instructions) |
