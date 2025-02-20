@@ -13,4 +13,4 @@ class Solution:
             pre=current
             current=temp
         return pre
-        
+
