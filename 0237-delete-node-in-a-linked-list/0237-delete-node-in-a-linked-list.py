@@ -6,8 +6,8 @@
 
 class Solution:
     def deleteNode(self, node: ListNode) -> None:
-        node.val = node.next.val
-        node.next = node.next.next
+        node.val=node.next.val
+        node.next=node.next.next
+        
 
-        ## alternative, one liner
-        # node.val, node.next = node.next.val, node.next.next
+      
