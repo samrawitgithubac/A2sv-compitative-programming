@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
 | [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1603-running-sum-of-1d-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0838-design-linked-list) |
+| [1477-product-of-the-last-k-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Math
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Combinatorics
 |  |
