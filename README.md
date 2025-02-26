@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
+| [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0858-masking-personal-information) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0768-partition-labels) |
+| [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
+| [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [1034-subarrays-with-k-different-integers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1364-tuple-with-same-product) |
