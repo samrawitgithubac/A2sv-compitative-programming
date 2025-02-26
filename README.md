@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0661-image-smoother) |
 | [0713-subarray-product-less-than-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0713-subarray-product-less-than-k) |
+| [0722-remove-comments](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0680-valid-palindrome-ii) |
+| [0722-remove-comments](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0812-rotate-string) |
 | [0858-masking-personal-information](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0858-masking-personal-information) |
