@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [1034-subarrays-with-k-different-integers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1034-subarrays-with-k-different-integers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1018-largest-perimeter-triangle) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
