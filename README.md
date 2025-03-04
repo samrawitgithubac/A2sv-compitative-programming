@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2580-circular-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2580-circular-sentence) |
+| [3055-maximum-odd-binary-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3412-permutation-difference-between-two-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3451-string-compression-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3055-maximum-odd-binary-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2619-categorize-box-according-to-criteria) |
 | [2645-pass-the-pillow](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
