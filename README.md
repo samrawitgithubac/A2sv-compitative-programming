@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0088-merge-sorted-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
