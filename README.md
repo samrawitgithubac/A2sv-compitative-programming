@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1720-crawler-log-folder](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1720-crawler-log-folder) |
 | [1772-create-sorted-array-through-instructions](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1791-richest-customer-wealth](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1720-crawler-log-folder](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
