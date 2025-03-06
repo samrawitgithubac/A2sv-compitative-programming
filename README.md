@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1449-print-words-vertically) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0953-reverse-only-letters) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
