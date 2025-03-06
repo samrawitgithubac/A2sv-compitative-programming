@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0567-permutation-in-string) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
@@ -686,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
