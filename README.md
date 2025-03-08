@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1720-crawler-log-folder) |
 | [1772-create-sorted-array-through-instructions](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1791-richest-customer-wealth](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1791-richest-customer-wealth) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1236-n-th-tribonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Memoization
 |  |
