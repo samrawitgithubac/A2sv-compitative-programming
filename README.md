@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0890-lemonade-change) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0633-sum-of-square-numbers) |
+| [0797-rabbits-in-forest](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0797-rabbits-in-forest) |
 | [0919-projection-area-of-3d-shapes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1018-largest-perimeter-triangle) |
