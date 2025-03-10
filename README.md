@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3651-transformed-array) |
 ## String
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sliding Window
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
 | ------- |
