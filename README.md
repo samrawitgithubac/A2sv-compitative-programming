@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0874-backspace-string-compare) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1772-create-sorted-array-through-instructions](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1772-create-sorted-array-through-instructions) |
 ## Game Theory
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0739-daily-temperatures) |
 ## Monotonic Queue
