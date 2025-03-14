@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0232-implement-queue-using-stacks) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -760,9 +762,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
