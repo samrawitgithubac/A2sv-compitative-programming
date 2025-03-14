@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
@@ -755,4 +757,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
