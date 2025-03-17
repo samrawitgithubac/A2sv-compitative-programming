@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0451-sort-characters-by-frequency) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0739-daily-temperatures) |
