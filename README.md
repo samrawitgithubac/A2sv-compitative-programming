@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0792-binary-search) |
