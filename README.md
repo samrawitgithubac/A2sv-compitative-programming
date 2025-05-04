@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3651-transformed-array) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting Sort
 |  |
 | ------- |
