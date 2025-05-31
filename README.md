@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3643-zero-array-transformation-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3651-transformed-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2465-shifting-letters-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3643-zero-array-transformation-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3643-zero-array-transformation-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
