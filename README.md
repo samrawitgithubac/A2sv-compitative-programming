@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0412-fizz-buzz) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0389-find-the-difference) |
@@ -606,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0349-intersection-of-two-arrays) |
