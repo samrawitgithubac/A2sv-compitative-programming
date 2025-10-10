@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0500-keyboard-row) |
