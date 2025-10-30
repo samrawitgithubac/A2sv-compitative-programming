@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0088-merge-sorted-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0142-linked-list-cycle-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0777-toeplitz-matrix) |
