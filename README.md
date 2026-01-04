@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1009-pancake-sorting) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/samrawitgithubac/A2sv-compitative-programming/tree/master/1034-subarrays-with-k-different-integers) |
